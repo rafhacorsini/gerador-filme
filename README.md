@@ -4,6 +4,8 @@
 
 Um app que recomenda os melhores filmes e séries com base no seu gosto e streaming favorito.
 
+![Demonstração do App](https://github.com/rafhacorsini/gerador-filme/blob/main/demonstrativo.gif?raw=true)
+
 ---
 
 ## 🚀 Como Usar?
